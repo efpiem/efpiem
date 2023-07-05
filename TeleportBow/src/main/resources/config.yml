@@ -1,0 +1,10 @@
+bow-name: 'Teleport Bow'
+bow-description: 'Shoot your shot and teleport anywhere'
+teleport-message: 'Swoosh!'
+welcome-message: 'Welcome '
+welcome-tp-bow-message: 'Welcome! Here it is a teleport bow! Have fun!'
+given-yourself-message: 'You have given yourself a teleport bow!'
+target-player-error-message: 'This player does not exist'
+someone-else-given-message: ' has given a teleport bow to you!'
+permission-error-message: 'You have not the permission to do that!'
+give-on-join: true

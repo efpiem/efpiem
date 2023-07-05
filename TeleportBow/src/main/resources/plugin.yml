@@ -1,0 +1,9 @@
+name: TeleportBow
+version: '${project.version}'
+main: me.efpiem.teleportbow.TeleportBow
+api-version: '1.19'
+commands:
+  giveteleportbow:
+    description: it gives to you or to someone else a teleport bow
+    usage: /<command>
+    aliases: givetpbow
